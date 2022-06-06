@@ -1,0 +1,95 @@
+body{
+	background-color:slategrey;
+	margin: 0 auto;
+}
+header{
+	font-size: 20px;
+	color: white;
+	background-position: center;
+	background-image: url('https://www.digiseller.ru/preview/612568/p1_2416691_552acf89.jpg');
+}
+.h3 { font-size: 28px;
+	color: white;
+	text-align: center;
+}
+.login{
+	padding-left: 1px;
+	position: fixed;
+	right: 10px;
+	top: 2px;
+} 
+
+.login a{
+	background-color: yellowgreen;
+	color: white;
+	padding: 8px;
+	font-size: 14px;
+	text-decoration: None;
+	border-radius: 5px;
+}
+
+.links{
+	background-color: darkblue;
+}
+
+.links a{	
+	background-color: blue;
+	color: white;
+	margin: 40px;
+	padding: 10px;
+	font-size: 18px;
+	text-decoration: None;
+}
+a:hover{
+	background-color: yellow;
+	color: black;
+	border-radius: 30px;
+}
+hr{
+	margin: 12px;
+}
+
+#text1{
+	font-size: 22px;
+	color: white;
+	font-family: Times New Roman;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-left:50px;
+	margin-bottom: 50px;
+}	
+}
+.help{
+	bottom: 10px;
+	right: 5px;
+	height: 70px;
+	width: 70px;
+	font-size: 16px;
+	text-align: center;
+	border-radius: 70px;
+	background-color: yellowgreen;
+	position: fixed;
+	color: white;
+}
+footer{
+	background-color: darkblue;
+	color: white;
+}
+
+.napr1{
+	font-size: 22px;
+
+}
+
+p{
+	font-size: 18px;
+}
+
+.foto_block{
+	display:flex;
+	flex-direction: column;
+}
+
+.foto_blocks{
+
+}
